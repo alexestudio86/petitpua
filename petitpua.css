@@ -1,0 +1,24 @@
+  html,body,h1,h2,h3,h4 {font-family:&quot;Lato&quot;, sans-serif}
+
+  body, html {
+    margin: 0;
+    height: 100%;
+    width: 100vw;
+  }
+
+  .mySlides {display:none}
+  .w3-tag, .fa {cursor:pointer}
+  .w3-tag {height:15px;width:15px;padding:0;margin-top:6px}
+  .margin-80-40 {margin: 80px auto 20px auto}
+  .max-1100 {max-width:1100px}
+  .uppercase {text-transform: uppercase}
+  .bold {font-weight: bold}
+  .price:before {content: &quot;$ &quot;; font: bold 0.6em &#39;Amatic&#39;, sans-serif}
+  .price:after {content: &quot; mxn&quot;; font: bold 0.6em &#39;Amatic&#39;, sans-serif; text-transform: uppercase}
+  .gray-one{ background: rgb(241, 241, 241); }
+  .gray-two{ background: rgb(190, 190, 190); }
+  .gray-three{ background: rgb(158, 158, 158); }
+  .gray-four{ background: rgb(97, 97, 97); }
+  .gray-five{ background: rgb(63, 63, 63); }
+  .gray-six{ background: rgb(0, 0, 0); }
+  input, textarea{width:100%}
